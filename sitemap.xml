@@ -1,13 +1,10 @@
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
-  <url>
+ <url>
     <loc>https://shinovpatrick.github.io/</loc>
-
-    <image:image>
+<image:image>
       <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-vellore-institute-portrait-01.jpg</image:loc>
     </image:image>
     <image:image>
@@ -61,4 +58,3 @@
 
   </url>
 </urlset>
-```
