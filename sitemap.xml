@@ -1,6 +1,64 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
   <url>
     <loc>https://shinovpatrick.github.io/</loc>
+
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-vellore-institute-portrait-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-striped-shirt-portrait-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-white-shirt-thoughtful-portrait-03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-patterned-shirt-mirror-photo-04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-black-and-white-portrait-05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-night-black-and-white-portrait-06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-mint-sweatshirt-mirror-photo-07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-thumbs-up-selfie-08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-orange-shirt-mirror-photo-09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-discover-hazards-publication-cover-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-vellore-institute-portrait-11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-green-sweatshirt-mirror-photo-12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-striped-shirt-portrait-13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-looking-out-window-portrait-14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-with-friend-black-and-white-photo-15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-patterned-shirt-mirror-photo-16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://shinovpatrick.github.io/shinov-paitonpatrick-seated-black-shirt-portrait-17.jpg</image:loc>
+    </image:image>
+
   </url>
 </urlset>
+```
